@@ -1,16 +1,15 @@
-## Hi there 👋
+# Yoimiya
 
-<!--
-**cao408/cao408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freshman at Xi'an Jiaotong University (XJTU), studying microelectronics. Before that, Mianyang High School in Sichuan.
 
-Here are some ideas to get you started:
+Want to learn spiking neural networks. Right now mostly getting destroyed by linear algebra and math analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## made
+
+- [西迁·1956](https://cao408.github.io/xiqian-1956-/) — a small web game about Jiaotong University moving west to Xi'an in 1956
+
+## elsewhere
+
+- site: https://cao408.github.io
+- email: Xinzhangheng@stu.xjtu.edu.cn
+- bilibili: @年轻人不讲武德emm
